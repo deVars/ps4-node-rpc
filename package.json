@@ -1,0 +1,15 @@
+{
+  "name": "ps4-node-rpc",
+  "version": "0.1.0",
+  "description": "rpc interface for ps4",
+  "main": "applyPokes.js",
+  "dependencies": {
+    "bignum": "^0.12.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deVars",
+  "license": "BSD-3-Clause"
+}
